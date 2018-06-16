@@ -1,0 +1,91 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* layout\
+* layout\activity_about.xml
+* layout\activity_adminlocal.xml
+* layout\activity_adminnews.xml
+* layout\activity_connect.xml
+* layout\activity_english.xml
+* layout\activity_lang.xml
+* layout\activity_lang2.xml
+* layout\activity_lang22.xml
+* layout\activity_licance.xml
+* layout\activity_listview.xml
+* layout\activity_local.xml
+* layout\activity_login.xml
+* layout\activity_main.xml
+* layout\activity_main2.xml
+* layout\activity_malayalam.xml
+* layout\activity_paper.xml
+* layout\activity_paper1.xml
+* layout\activity_rss_channel.xml
+* layout\activity_rss_channel2.xml
+* layout\activity_rss_channel3.xml
+* layout\activity_signup.xml
+* layout\activity_tab.xml
+* layout\activity_tabb.xml
+* layout\activity_uploadnews.xml
+* layout\activity_welcome.xml
+* layout\android_frag.xml
+* layout\drawer_list_item.xml
+* layout\fragment_community.xml
+* layout\fragment_find_people.xml
+* layout\fragment_home.xml
+* layout\fragment_pages.xml
+* layout\fragment_photos.xml
+* layout\fragment_whats_hot.xml
+* layout\ios_frag.xml
+* layout\license.xml
+* layout\swipe_tab.xml
+* layout\tabbb.xml
+* layout\windows_frag.xml
+* menu\
+* menu\main.xml
+* proguard-project.txt
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:21.0.3]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\ksoap2.5.4.jar => app\libs\ksoap2.5.4.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

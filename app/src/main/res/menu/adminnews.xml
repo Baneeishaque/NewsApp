@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="newsapp.ui.Lang" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item android:id="@+id/about" android:title="About"></item>
+    <item android:id="@+id/upload" android:title="Upload News"></item>
+    <item android:id="@+id/verify" android:title="verify"></item>
+    <item android:id="@+id/delete" android:title="delete"></item>
+    <item android:id="@+id/update" android:title="update news"></item>
+
+</menu>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_language">Select Language</string>
+    <string name="title_activity_paper">Select Newspaper</string>
+    <string name="title_activity_paper1">Malayalam Manorama</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_licance">Licance</string>
+    <string name="title_activity_uploadnews">Upload News</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_lang">Select Language</string>
+    <string name="title_activity_english">Select Newspaper</string>
+    <string name="title_activity_malayalam">Select Newspaper</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="norssfeeds">No RSS feeds</string>
+    <string name="title_activity_connect">Connect</string>
+    <string name="tab_art">Art</string>
+    <string name="tab_tech">Tech</string>
+    <string name="tab_sports">Sports</string>
+    <string name="title_activity_tabb">Tabb</string>
+    <string name="dialog_licenseagreement">NEWSAPP END USER SOFTWARE LICENSE AGREEMENT</string>
+    <string name="button_decline">Decline</string>
+    <string name="button_accept">Accept</string>
+    <string name="contributors"><u>Additional contributors &gt;&gt;</u></string>
+      <string name="contributors_list">Additional contributors (other translations and code):\n\n - a very nice person that wants to be unnamed (French and Turkish translations)\n
+        - another nice unnamed person (Japanese translation)\n
+        - Joel Low (several patches [refresh spinner, UI adjustments and more]); see commit log for details</string>
+    <string name="license_intro">This software is distributed under the MIT open source license and its source code is available under http://code.google.com/p/sparserss</string>
+    <string name="license_word"><u>&lt;&lt; License</u></string>
+      <string name="license">Copyright &#169; 2010-2012 Stefan Handschuh (handschuh.stefan@googlemail.com)\n\n
+        Translators\n
+         - Dutch: Eelko Berkenpies\n
+         - Spanish: Sergio Martín\n
+         - Russian: Igor Nedoboy\n
+         - Swedish: Lars m
+         \n\nPermission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        \n\n
+        The above copyright notice and this permission notice shall be included in
+        all copies or substantial portions of the Software.
+        \n\n
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+        THE SOFTWARE.
+    </string>
+    
+</resources>
